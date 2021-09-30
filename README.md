@@ -1,9 +1,14 @@
 # JavaScript-Data-Structures-and-Algorithms
 01: JavaScript: a quick overview
+
 02: ECMAScript and TypeScript Introduction
+
 03: Arrays
+
 04: Stacks
+
 05: Queues and Deques
+
 06: LinkedLists
 07: Sets
 08: Dictionaries and Hashes
